@@ -52,3 +52,7 @@
                     }
 
 ### 9.  Submit your Java class file to Brightspace if you haven't already!
+
+## Here's the link to the presentation if you want to refernce it later:
+
+### https://docs.google.com/presentation/d/1bF58WnBSaCQoIPaquwfPIwANYfJJCI_3Qlg7LO8oEi4/edit?usp=sharing
