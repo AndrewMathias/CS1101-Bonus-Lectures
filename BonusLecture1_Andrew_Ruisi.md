@@ -1,19 +1,23 @@
-### TODO: 1.  Set up your header comment template (We'll walk through the settings menu)
+### 1.  Set up your header comment template (We'll walk through the settings menu)
 
-### TODO: 2.  Make a new Java class in IntelliJ
+### 2.  Make a new Java class in IntelliJ
 
-### TODO: 3.  Set up the right margin and text wrap if you want (We can walk through this too)
+### 3.  Set up the right margin and text wrap if you want (We can walk through this too)
 
-### TODO: 4.  Copy the following code into your main method and use the reformat code to clean it up quickly
+### 4.  Copy the following code into your main method and use the reformat code to clean it up quickly
 
             for(int i=1;i<=4*(5+4);i+=6){System.out.println("Bret?");System.out.println(
                             "Present");for(int j=0;j<i/5;j++){System.out.println("Yay repetition");}int
                             somenumber=0;for(int y=9;y>5;y--){somenumber++;}System.out.println(somenumber);
                             }System.out.println("done");
 
-### TODO: 5.  Copy this comment somewhere into your program. Notice anything? Try using the TODO and FIXME keywords in other comments
+### 5.  Copy this comment somewhere into your program:
 
-### TODO: 6.  Copy the following method into your class:
+        //TODO: Copy this comment into your class
+
+### Notice anything? Try using the TODO and FIXME keywords in other comments
+
+### 6.  Copy the following method into your class:
 
 
             public static boolean javadocExampleMethod (int a, int b, double c, String name,
@@ -22,11 +26,9 @@
                             && !isBowieInSpace;
                             }
 
-### TODO: 7.  Write a Javadoc comment for this method by typing "/**" above the method and then hit enter. Fill in the
-            appropriate fields.
+### 7.  Write a Javadoc comment for this method by typing "/**" above the method and then hit enter. Fill in the appropriate fields.
 
-### TODO: (Time permitting) 8.    Copy the following method into your class and call it in your main method.
-                We'll walk through some debugger basics if we have time.
+### 8.  (Time permitting) Copy the following method into your class and call it in your main method. We'll walk through some debugger basics if we have time.
 
 
                 /**
@@ -46,3 +48,5 @@
                         }
                         System.out.println(newLetters);
                     }
+
+### 9.  Submit your Java class file to Brightspace if you haven't already!
