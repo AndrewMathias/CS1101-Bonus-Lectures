@@ -1,3 +1,5 @@
+##  Here's some things to do in IntelliJ:
+
 ### 1.  Set up your header comment template (We'll walk through the settings menu)
 
 ### 2.  Make a new Java class in IntelliJ
